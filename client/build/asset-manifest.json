@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Neirotciv/simpleStorage_deploy/static/css/main.e11971f9.chunk.css",
+    "main.js": "/Neirotciv/simpleStorage_deploy/static/js/main.b4be1338.chunk.js",
+    "main.js.map": "/Neirotciv/simpleStorage_deploy/static/js/main.b4be1338.chunk.js.map",
+    "runtime-main.js": "/Neirotciv/simpleStorage_deploy/static/js/runtime-main.2cb94945.js",
+    "runtime-main.js.map": "/Neirotciv/simpleStorage_deploy/static/js/runtime-main.2cb94945.js.map",
+    "static/js/2.c75c3584.chunk.js": "/Neirotciv/simpleStorage_deploy/static/js/2.c75c3584.chunk.js",
+    "static/js/2.c75c3584.chunk.js.map": "/Neirotciv/simpleStorage_deploy/static/js/2.c75c3584.chunk.js.map",
+    "index.html": "/Neirotciv/simpleStorage_deploy/index.html",
+    "static/css/main.e11971f9.chunk.css.map": "/Neirotciv/simpleStorage_deploy/static/css/main.e11971f9.chunk.css.map",
+    "static/js/2.c75c3584.chunk.js.LICENSE.txt": "/Neirotciv/simpleStorage_deploy/static/js/2.c75c3584.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2cb94945.js",
+    "static/js/2.c75c3584.chunk.js",
+    "static/css/main.e11971f9.chunk.css",
+    "static/js/main.b4be1338.chunk.js"
+  ]
+}
